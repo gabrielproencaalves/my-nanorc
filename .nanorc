@@ -1,4 +1,4 @@
-include /usr/share/nppano/python.nanorc
+include /usr/share/nano/python.nanorc
 include /usr/share/nano/lua.nanorc
 include /usr/share/nano/c.nanorc
 include /usr/share/nano/makefile.nanorc
