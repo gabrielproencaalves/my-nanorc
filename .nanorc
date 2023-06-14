@@ -75,5 +75,9 @@ bind   M-p prevbuf main
 unbind M-n main
 bind   M-n nextbuf main
 
+# META + d = remove word
+unbind M-d main
+bind   M-d chopwordright main
+
 # Let's avoid some accidents
 unbind M-t main
