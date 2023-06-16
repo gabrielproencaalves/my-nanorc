@@ -2,7 +2,6 @@
 
 My .nanorc with similar emacs keybindings.
 
-
 ## Installation
 
 _Obs:_ DO NOT forget to **backup** your original nanorc configuration file.
@@ -26,7 +25,7 @@ In some situations, you will be dissatisfied with the keys configured. Don't wor
 `bind KEY MENU`
 
 Where:
-    KEY: characters that represents a key combination, eg. ^a for CTRL+a, or, M-s for Meta+s.
+    KEY: characters that represents a key combination, eg. `^a` for CTRL+a, or, `M-s` for Meta+s.
     MENU: the menu that receives the new keybinding setting, e.g., Main for the default editing screen.
 
 Before every binding, I'd like to recommend to unbind it first, because if not, multiple unwanted commands/macros will be executed simultaneously.
