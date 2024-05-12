@@ -15,6 +15,14 @@ set tabsize 2
 set softwrap
 set cutfromcursor
 
+# CTRL + f = next character
+unbind ^f main
+bind   ^f right main
+
+# CTRL + b = previous character
+unbind ^b main
+bind   ^b left main
+
 # META + v = screen up
 unbind M-v main
 bind   M-v pageup main
