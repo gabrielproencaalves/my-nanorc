@@ -1,6 +1,6 @@
 # my-nanorc
 
-My .nanorc with similar emacs keybindings.
+A readline/emacs keybindings set for nano.
 
 ## Installation
 
